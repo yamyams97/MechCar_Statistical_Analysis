@@ -64,4 +64,28 @@ Looking through the suspension coil data, there is clearly something different h
 
 ## Deliverable 4 
 
+The statistical study design has the following:
+* A metric to be tested is mentioned 
+* A null hypothesis or an alternative hypothesis is described 
+* A statistical test is described to test the hypothesis 
+* The data for the statistical test is described 
 
+This study would involve collecting data on the MechaCar and comparing it to other models in similar categories over a year 2-3 year period. Some good questions to ask in order to begin the testing are:
+* What cars are the MechaCar competing with? 
+* Will all of them be included in the study?
+* What factors are looked at in order to determine the right selling price?
+
+### Metrics 
+* Safety
+* Selling Price
+* Engine type
+* Resale value
+* MPG
+* Maintenance cost
+
+### Hypothesis?
+* Null Hypothesis: MechaCar is priced correctly in comparison to its competitors based on the performance of the metrics above.
+* Alternative Hypothesis: MechaCar is NOT priced correctly in comparison to its compertitors based on the performance of the metrics above.
+
+### Types of Testing
+Linear regression tests would work best for correlation/predictability factors. 
